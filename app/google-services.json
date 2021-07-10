@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855241948233",
+    "project_id": "chat2talk-2883f",
+    "storage_bucket": "chat2talk-2883f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855241948233:android:138b92456878f6498c1398",
+        "android_client_info": {
+          "package_name": "com.example.chat2talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855241948233-3t3210dj8vi31rn1d7esscl66nvn8phj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMiEUPigTWWKtXJzlSba17HaqrIqE0ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855241948233-3t3210dj8vi31rn1d7esscl66nvn8phj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
